@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tugas-UAS-Genap-2021-AKB-IF-9-10118396</string>
+    <string name="fee">Harga Tiket</string>
+    <string name="address">Alamat Wisata</string>
+    <string name="profil">Profil</string>
+    <string name="daftar_wisata">Daftar Wisata</string>
+    <string name="Azzuhra">Azzuhra</string>
+    <string name="Kelas">IF 9</string>
+    <string name="NIM">10118396</string>
+    <string name="lokasi_maps">Lihat lokasi di Maps</string>
+    <string name="menu_map">Map</string>
+    <string name="label_map_terrain">terrain</string>
+    <string name="label_map_hybrid">hybrid</string>
+    <string name="label_map_satelite">satellite</string>
+    <string name="label_map_normal">normal</string>
+</resources>
